@@ -1,2 +1,2 @@
 # -git-practice
- for practicing only
+ for practicing only.
